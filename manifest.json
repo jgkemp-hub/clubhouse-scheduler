@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2685.5">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.7px Arial; color: #181818; -webkit-text-stroke: #181818}
+    span.s1 {font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">{</span></p>
+<p class="p1"><span class="s1">  "name": "Clubhouse Bar Scheduler",</span></p>
+<p class="p1"><span class="s1">  "short_name": "BarScheduler",</span></p>
+<p class="p1"><span class="s1">  "start_url": ".",</span></p>
+<p class="p1"><span class="s1">  "display": "standalone",</span></p>
+<p class="p1"><span class="s1">  "background_color": "#ffffff",</span></p>
+<p class="p1"><span class="s1">  "theme_color": "#0284c7",</span></p>
+<p class="p1"><span class="s1">  "description": "Bar shift management for the community clubhouse.",</span></p>
+<p class="p1"><span class="s1">  "icons": [</span></p>
+<p class="p1"><span class="s1">    {</span></p>
+<p class="p1"><span class="s1">      "src": "icon.svg",</span></p>
+<p class="p1"><span class="s1">      "sizes": "any",</span></p>
+<p class="p1"><span class="s1">      "type": "image/svg+xml"</span></p>
+<p class="p1"><span class="s1">    }</span></p>
+<p class="p1"><span class="s1">  ]</span></p>
+<p class="p1"><span class="s1">}</span></p>
+</body>
+</html>
