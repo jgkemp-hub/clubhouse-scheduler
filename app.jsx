@@ -10,7 +10,7 @@ import { Plus, Calendar, User, Phone, Clock, Trash2, Edit, X, Download, Users, B
 // 5. Create "OAuth 2.0 Client ID", select "Web application", add your app's final URL (e.g., from Netlify)
 //    to "Authorized JavaScript origins", and paste the Client ID below.
 const GOOGLE_API_KEY = 'AIzaSyD8nxFQdu0QkB1K62OMOJ87EY4_wLFsRJw'; // <-- REPLACE WITH YOUR API KEY
-const GOOGLE_CLIENT_ID = 'YOUR_GOOGLE_CLIENT_ID.apps.googleusercontent.com'; // <-- REPLACE WITH YOUR CLIENT ID
+const GOOGLE_CLIENT_ID = '117253301125-ev8rmfdm25q6qlsh2sbqr1pcbnh0pj2f.apps.googleusercontent.com'; // <-- REPLACE WITH YOUR CLIENT ID
 
 const DISCOVERY_DOCS = ["https://sheets.googleapis.com/$discovery/rest?version=v4"];
 const SCOPES = "https://www.googleapis.com/auth/spreadsheets";
